@@ -4,4 +4,7 @@
 
 <p>Um sistema simples para fazer o cadastro de produtos de forma fácil</p>
 
-## Dependencias e Libs usadas :book:
+## Tecnologias
+
+- [Typescript](https://www.typescriptlang.org/)
+- [PrismaORM](https://www.prisma.io/)
